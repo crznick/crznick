@@ -278,8 +278,15 @@ Containerized applications using:
 - Multi-Agent AI Systems
 - Advanced Machine Learning
 - Software Architecture
-- Cloud Native Applications
+- Storytelling
 - Unreal Engine 5
+
+--- 
+
+# 📊 GitHub Stats 
+<div align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crznick&theme=github-dark&hide_border=true"/>
+</div>
 
 ---
 
