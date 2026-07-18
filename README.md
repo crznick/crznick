@@ -1,5 +1,5 @@
 <div align="center">
-<img scr="https://repository-images.githubusercontent.com/1126431904/d5ae7905-1227-4d33-9df1-aefca5e136e1" />
+<img src="https://repository-images.githubusercontent.com/1126431904/d5ae7905-1227-4d33-9df1-aefca5e136e1" />
   
 # 👋 Hi there, I'm Nicolas De La Cruz
 
